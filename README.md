@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Stats
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=salemalex11&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salemalex11&layout=compact&langs_count=10&theme=dark)
+
+
+### Spotlight
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=salemalex11&repo=mentAlly&theme=dark)](https://github.com/salemalex11/mentAlly)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=salemalex11&repo=social-connect&theme=dark)](https://github.com/salemalex11/social-connect)
