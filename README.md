@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexlamouri&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlamouri&layout=compact&langs_count=10&theme=dark)
 
-## 🔭 I’m currently working on...
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexlamouri&repo=FullStackOpen&theme=dark)](https://github.com/alexlamouri/FullStackOpen)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexlamouri&repo=DevOpsWithDocker&theme=dark)](https://github.com/alexlamouri/DevOpsWithDocker)
-
 ## 💬 Ask me about ...
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexlamouri&repo=social-connect&theme=dark)](https://github.com/alexlamouri/social-connect)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexlamouri&repo=mentAlly&theme=dark)](https://github.com/alexlamouri/mentAlly)
